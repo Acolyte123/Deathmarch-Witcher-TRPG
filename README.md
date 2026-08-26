@@ -6,7 +6,7 @@ Playing Witcher on Foundry used to mean a clunky and barren base system plus a p
 
 If you'd rather run it closer to the book, almost all of the homebrew can be switched off.
 
-It runs on Foundry v14, built and tested against 14.363.
+It runs on Foundry v14, built and tested against 14.365.
 
 # COMMUNITY TRANSLATORS WANTED
 
@@ -94,7 +94,7 @@ A visual aid for crafting items.
 If you have map items in your inventory, you may visualize them.
 
 <p align="center">
-  <img width="49%" alt="Inventory" src="https://github.com/user-attachments/assets/df5c2bfd-4ef4-4516-bf2e-5ded77a5cb4c" />
+  <img width="49%" alt="Inventory" src="https://github.com/user-attachments/assets/681b6260-6a09-4fd2-85f6-0296a5209778" />
   <img width="49%" alt="Journal1" src="https://github.com/user-attachments/assets/8fe580f1-069a-4a53-ae07-ddcd535a346e" />
 </p>
 
@@ -105,7 +105,7 @@ If you have map items in your inventory, you may visualize them.
 
 <p align="center">
   <img width="49%" alt="Alchemy" src="https://github.com/user-attachments/assets/13e77fa1-2bc0-4864-8f90-928b5c49251e" />
-  <img width="49%" alt="Bestiary" src="https://github.com/user-attachments/assets/35309f08-520d-4083-b6d7-9048c02e3649" />
+  <img width="49%" alt="Bestiary" src="https://github.com/user-attachments/assets/71358d84-de3f-4915-8e6d-03ef554ae245" />
 </p>
 
 <p align="center">
