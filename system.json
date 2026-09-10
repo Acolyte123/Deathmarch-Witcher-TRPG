@@ -131,9 +131,9 @@
       "path": "lang/de-DE.json"
     },
     {
-      "lang": "ru-RU",
-      "name": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439",
-      "path": "lang/ru-RU.json"
+      "lang": "ru",
+      "name": "Русский",
+      "path": "lang/ru.json"
     },
     {
       "lang": "pl-PL",
